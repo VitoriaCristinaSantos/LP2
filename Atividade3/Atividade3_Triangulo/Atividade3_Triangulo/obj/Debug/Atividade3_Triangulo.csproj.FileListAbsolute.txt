@@ -1,0 +1,9 @@
+C:\Users\vitcr\source\repos\Atividade3_Triangulo\Atividade3_Triangulo\bin\Debug\Atividade3_Triangulo.exe.config
+C:\Users\vitcr\source\repos\Atividade3_Triangulo\Atividade3_Triangulo\bin\Debug\Atividade3_Triangulo.exe
+C:\Users\vitcr\source\repos\Atividade3_Triangulo\Atividade3_Triangulo\bin\Debug\Atividade3_Triangulo.pdb
+C:\Users\vitcr\source\repos\Atividade3_Triangulo\Atividade3_Triangulo\obj\Debug\Atividade3_Triangulo.csprojAssemblyReference.cache
+C:\Users\vitcr\source\repos\Atividade3_Triangulo\Atividade3_Triangulo\obj\Debug\Atividade3_Triangulo.Form1.resources
+C:\Users\vitcr\source\repos\Atividade3_Triangulo\Atividade3_Triangulo\obj\Debug\Atividade3_Triangulo.Properties.Resources.resources
+C:\Users\vitcr\source\repos\Atividade3_Triangulo\Atividade3_Triangulo\obj\Debug\Atividade3_Triangulo.csproj.GenerateResource.cache
+C:\Users\vitcr\source\repos\Atividade3_Triangulo\Atividade3_Triangulo\obj\Debug\Atividade3_Triangulo.exe
+C:\Users\vitcr\source\repos\Atividade3_Triangulo\Atividade3_Triangulo\obj\Debug\Atividade3_Triangulo.pdb
