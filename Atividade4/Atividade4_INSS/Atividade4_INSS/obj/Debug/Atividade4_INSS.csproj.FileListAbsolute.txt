@@ -1,0 +1,9 @@
+C:\Users\vitcr\source\repos\Atividade4_INSS\Atividade4_INSS\bin\Debug\Atividade4_INSS.exe.config
+C:\Users\vitcr\source\repos\Atividade4_INSS\Atividade4_INSS\bin\Debug\Atividade4_INSS.exe
+C:\Users\vitcr\source\repos\Atividade4_INSS\Atividade4_INSS\bin\Debug\Atividade4_INSS.pdb
+C:\Users\vitcr\source\repos\Atividade4_INSS\Atividade4_INSS\obj\Debug\Atividade4_INSS.csprojAssemblyReference.cache
+C:\Users\vitcr\source\repos\Atividade4_INSS\Atividade4_INSS\obj\Debug\Atividade4_INSS.Form1.resources
+C:\Users\vitcr\source\repos\Atividade4_INSS\Atividade4_INSS\obj\Debug\Atividade4_INSS.Properties.Resources.resources
+C:\Users\vitcr\source\repos\Atividade4_INSS\Atividade4_INSS\obj\Debug\Atividade4_INSS.csproj.GenerateResource.cache
+C:\Users\vitcr\source\repos\Atividade4_INSS\Atividade4_INSS\obj\Debug\Atividade4_INSS.exe
+C:\Users\vitcr\source\repos\Atividade4_INSS\Atividade4_INSS\obj\Debug\Atividade4_INSS.pdb
