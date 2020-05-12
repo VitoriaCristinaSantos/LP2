@@ -1,0 +1,9 @@
+C:\Users\vitcr\source\repos\CalculadoraPesoIdeal\CalculadoraPesoIdeal\obj\Debug\CalculadoraPesoIdeal.csprojAssemblyReference.cache
+C:\Users\vitcr\source\repos\CalculadoraPesoIdeal\CalculadoraPesoIdeal\obj\Debug\CalculadoraPesoIdeal.Form1.resources
+C:\Users\vitcr\source\repos\CalculadoraPesoIdeal\CalculadoraPesoIdeal\obj\Debug\CalculadoraPesoIdeal.Properties.Resources.resources
+C:\Users\vitcr\source\repos\CalculadoraPesoIdeal\CalculadoraPesoIdeal\obj\Debug\CalculadoraPesoIdeal.csproj.GenerateResource.cache
+C:\Users\vitcr\source\repos\CalculadoraPesoIdeal\CalculadoraPesoIdeal\bin\Debug\CalculadoraPesoIdeal.exe.config
+C:\Users\vitcr\source\repos\CalculadoraPesoIdeal\CalculadoraPesoIdeal\bin\Debug\CalculadoraPesoIdeal.exe
+C:\Users\vitcr\source\repos\CalculadoraPesoIdeal\CalculadoraPesoIdeal\bin\Debug\CalculadoraPesoIdeal.pdb
+C:\Users\vitcr\source\repos\CalculadoraPesoIdeal\CalculadoraPesoIdeal\obj\Debug\CalculadoraPesoIdeal.exe
+C:\Users\vitcr\source\repos\CalculadoraPesoIdeal\CalculadoraPesoIdeal\obj\Debug\CalculadoraPesoIdeal.pdb
