@@ -1,0 +1,13 @@
+C:\Users\vitcr\source\repos\PTesteMetodos_1205_2\PTesteMetodos_1205_2\bin\Debug\PTesteMetodos_1205_2.exe.config
+C:\Users\vitcr\source\repos\PTesteMetodos_1205_2\PTesteMetodos_1205_2\bin\Debug\PTesteMetodos_1205_2.exe
+C:\Users\vitcr\source\repos\PTesteMetodos_1205_2\PTesteMetodos_1205_2\bin\Debug\PTesteMetodos_1205_2.pdb
+C:\Users\vitcr\source\repos\PTesteMetodos_1205_2\PTesteMetodos_1205_2\obj\Debug\PTesteMetodos_1205_2.csprojAssemblyReference.cache
+C:\Users\vitcr\source\repos\PTesteMetodos_1205_2\PTesteMetodos_1205_2\obj\Debug\PTesteMetodos_1205_2.frmPrincipal.resources
+C:\Users\vitcr\source\repos\PTesteMetodos_1205_2\PTesteMetodos_1205_2\obj\Debug\PTesteMetodos_1205_2.Properties.Resources.resources
+C:\Users\vitcr\source\repos\PTesteMetodos_1205_2\PTesteMetodos_1205_2\obj\Debug\PTesteMetodos_1205_2.csproj.GenerateResource.cache
+C:\Users\vitcr\source\repos\PTesteMetodos_1205_2\PTesteMetodos_1205_2\obj\Debug\PTesteMetodos_1205_2.exe
+C:\Users\vitcr\source\repos\PTesteMetodos_1205_2\PTesteMetodos_1205_2\obj\Debug\PTesteMetodos_1205_2.pdb
+C:\Users\vitcr\source\repos\PTesteMetodos_1205_2\PTesteMetodos_1205_2\obj\Debug\PTesteMetodos_1205_2.frmExercício2.resources
+C:\Users\vitcr\source\repos\PTesteMetodos_1205_2\PTesteMetodos_1205_2\obj\Debug\PTesteMetodos_1205_2.frmExercício3.resources
+C:\Users\vitcr\source\repos\PTesteMetodos_1205_2\PTesteMetodos_1205_2\obj\Debug\PTesteMetodos_1205_2.frmExercício4.resources
+C:\Users\vitcr\source\repos\PTesteMetodos_1205_2\PTesteMetodos_1205_2\obj\Debug\PTesteMetodos_1205_2.frmExercício5.resources
