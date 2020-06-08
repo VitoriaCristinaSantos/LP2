@@ -1,0 +1,10 @@
+C:\Users\vitcr\source\repos\Projeto_2605\Projeto_2605\bin\Debug\Projeto_2605.exe.config
+C:\Users\vitcr\source\repos\Projeto_2605\Projeto_2605\bin\Debug\Projeto_2605.exe
+C:\Users\vitcr\source\repos\Projeto_2605\Projeto_2605\bin\Debug\Projeto_2605.pdb
+C:\Users\vitcr\source\repos\Projeto_2605\Projeto_2605\obj\Debug\Projeto_2605.csprojAssemblyReference.cache
+C:\Users\vitcr\source\repos\Projeto_2605\Projeto_2605\obj\Debug\Projeto_2605.Form1.resources
+C:\Users\vitcr\source\repos\Projeto_2605\Projeto_2605\obj\Debug\Projeto_2605.Properties.Resources.resources
+C:\Users\vitcr\source\repos\Projeto_2605\Projeto_2605\obj\Debug\Projeto_2605.csproj.GenerateResource.cache
+C:\Users\vitcr\source\repos\Projeto_2605\Projeto_2605\obj\Debug\Projeto_2605.exe
+C:\Users\vitcr\source\repos\Projeto_2605\Projeto_2605\obj\Debug\Projeto_2605.pdb
+C:\Users\vitcr\source\repos\Projeto_2605\Projeto_2605\obj\Debug\Projeto_2605.Ex7.resources
