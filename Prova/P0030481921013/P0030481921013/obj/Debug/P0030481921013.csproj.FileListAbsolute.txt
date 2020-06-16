@@ -1,0 +1,9 @@
+C:\Users\vitcr\source\repos\P0030481921013\P0030481921013\bin\Debug\P0030481921013.exe.config
+C:\Users\vitcr\source\repos\P0030481921013\P0030481921013\bin\Debug\P0030481921013.exe
+C:\Users\vitcr\source\repos\P0030481921013\P0030481921013\bin\Debug\P0030481921013.pdb
+C:\Users\vitcr\source\repos\P0030481921013\P0030481921013\obj\Debug\P0030481921013.csprojAssemblyReference.cache
+C:\Users\vitcr\source\repos\P0030481921013\P0030481921013\obj\Debug\P0030481921013.Form1.resources
+C:\Users\vitcr\source\repos\P0030481921013\P0030481921013\obj\Debug\P0030481921013.Properties.Resources.resources
+C:\Users\vitcr\source\repos\P0030481921013\P0030481921013\obj\Debug\P0030481921013.csproj.GenerateResource.cache
+C:\Users\vitcr\source\repos\P0030481921013\P0030481921013\obj\Debug\P0030481921013.exe
+C:\Users\vitcr\source\repos\P0030481921013\P0030481921013\obj\Debug\P0030481921013.pdb
